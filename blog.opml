@@ -15,12 +15,20 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 27 Oct 2021 06:56:07 GMT</dateModified>
-		<expansionState>1,2,3,10,13,16,19,20,27,32,46</expansionState>
-		<lastCursor>4</lastCursor>
+		<dateModified>Fri, 29 Oct 2021 14:33:05 GMT</dateModified>
+		<expansionState>1,2,3,8,9,16,19,22,25,26,33,38,52</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 19:16:11 GMT" name="october2021" type="calendarMonth">
+			<outline text="October 29" created="Fri, 29 Oct 2021 14:25:04 GMT" type="calendarDay" name="29">
+				<outline text="Happy Birthday Internet!" created="Fri, 29 Oct 2021 14:25:05 GMT" type="outline">
+					<outline text="At 10:30 p.m., 29 October 1969, the first ARPANET message was sent from this UCLA site to the Stanford Research Institute. Based on packet switching and dynamic resource allocation, the sharing of information digitally from this first node of ARPANET launched the Internet revolution.(&lt;a href=&quot;https://ethw.org/Milestones:Birthplace_of_the_Internet,_1969&quot;&gt;Source&lt;/a&gt;)" created="Fri, 29 Oct 2021 14:32:52 GMT"/>
+					<outline text="That first message? &quot;Lo&quot;. They &lt;a href=&quot;https://www.nsf.gov/news/special_reports/nsf-net/textonly/60s.jsp&quot;&gt;tried&lt;/a&gt; to send &quot;Login&quot;, but the computer crashed. " created="Fri, 29 Oct 2021 14:25:56 GMT"/>
+					<outline text="But, happy birthday internet!" created="Fri, 29 Oct 2021 14:26:45 GMT"/>
+					<outline text="" created="Fri, 29 Oct 2021 14:26:52 GMT" inlineImage="https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/The Internet is amazing.jpg"/>
+					</outline>
+				</outline>
 			<outline text="October 26" created="Tue, 26 Oct 2021 14:10:34 GMT" type="calendarDay" name="26">
 				<outline text="Not lost on Lost" created="Tue, 26 Oct 2021 20:53:43 GMT" type="outline">
 					<outline text="I'm re-watching the great TV show Lost, which originally aired from 2004 - 2010. It's currently on Disney+ and I always loved this show. Yes, it has it's weird seasons but I persevered. It is great to see these old characters back in action, I love how I can read up on sites like &lt;a href=&quot;https://lostpedia.fandom.com&quot;&gt;Lostpedia&lt;/a&gt;. But even better is to rewatch some of the weirdest episodes. Like &lt;a href=&quot;https://lostpedia.fandom.com/wiki/Expos%C3%A9&quot;&gt;S3:E14 Exposé&lt;/a&gt;, with the backstory of two seemingly random characters, Nikki and Paolo. " created="Tue, 26 Oct 2021 21:06:49 GMT"/>
