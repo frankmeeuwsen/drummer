@@ -15,11 +15,29 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 29 Oct 2021 14:33:05 GMT</dateModified>
-		<expansionState>1,2,3,8,9,16,19,22,25,26,33,38,52</expansionState>
-		<lastCursor>3</lastCursor>
+		<dateModified>Tue, 09 Nov 2021 12:09:10 GMT</dateModified>
+		<expansionState>1,2,3,11,15</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
+		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 9" created="Tue, 09 Nov 2021 10:13:44 GMT" type="calendarDay" name="09">
+				<outline text="Oude notitieboeken" created="Tue, 09 Nov 2021 11:30:21 GMT" type="outline" wp_postid="17537">
+					<outline text="Tijdens mijn lunch lees ik wat oudere blogposts in mijn feedreader. &lt;a href=&quot;https://alexjj.com/2021/11/04/115353.html?title=theLongevityOfPhysicalNotebooksAndTheirContent&quot;&gt;Het verhaal van Alex over zijn oude notitieboeken&lt;/a&gt; raakt een snaar bij me. Het is heel herkenbaar. Ik heb eveneens een stapel oude notitieboeken die ik op werk heb gebruikt. Zoals Alex het mooi zegt." created="Tue, 09 Nov 2021 11:36:53 GMT"/>
+					<outline text="&quot;The bulk of entries are transient, stuff that needed to be done that week, meetings about it, updates, which whilst important at the time, the information tends to become meaningless over time. However, within it are useful items - what did I accomplish, updates and records of long running projects, and good reference information that I've captured. It is this information that I'm wondering about.&quot;" created="Tue, 09 Nov 2021 11:31:59 GMT"/>
+					<outline text="Ik ken dit gevoel. Steeds als ik de stapel notitieboeken zie denk ik, &quot;ik moet er nog eens door bladeren en zien of er iets van waarde in staat wat ik nog kan hergebruiken&quot;" created="Tue, 09 Nov 2021 11:32:03 GMT"/>
+					<outline text="" created="Tue, 09 Nov 2021 11:35:05 GMT" inlineImage="https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/IMG_0777.JPG"/>
+					<outline text="Zie hier een deel van de notitieboeken die op mijn bureau liggen. Ik mis de gewoonte van Alex om elke dag te schrijven wat hij die dag heeft gedaan op werkgebied. Ik schrijf wel uren, maar omschrijf het te weinig voor mezelf. Het zou me al snel de Weekly Notes kunnen geven die veel andere bloggers hebben. " created="Tue, 09 Nov 2021 11:35:16 GMT"/>
+					<outline text="En misschien moet ik maar hetzelfde doen als Alex. Het van me afzetten en de notitieboeken bij het oud papier doen. Dan is het uit mijn systeem. " created="Tue, 09 Nov 2021 11:36:16 GMT"/>
+					</outline>
+				<outline text="Als het werk weer toeneemt, neemt het losjes schrijven af. Dat merk ik wel weer. Terwijl er genoeg in mijn hoofd rondspeelt om eens op te schrijven. Snel weer de tijd voor nemen. " created="Tue, 09 Nov 2021 10:13:45 GMT" type="outline"/>
+				<outline text="Energiemarkt " created="Tue, 09 Nov 2021 10:16:45 GMT" type="outline">
+					<outline text="Wat me deze dagen nog wel het meeste bezighoudt zijn de gewijzigde gas en stroomprijzen. Door een gedwongen overstap van Welkom Energie naar Eneco ben ik in 48 uur bijgelezen wat een ellende die energiemarkt is. Ons maandvoorschot is met 160 euro gestegen, meer dan 100% stijging." created="Tue, 09 Nov 2021 10:20:29 GMT"/>
+					<outline text="We zijn hopelijk nog op tijd overgestapt van Eneco naar een andere leverancier, Oxxio. Een submerk onder Eneco maar wel met iets vriendelijker prijzen. Nu nog maar een prijsstijging van 60 euro per maand. " created="Tue, 09 Nov 2021 10:17:53 GMT"/>
+					<outline text="Het zijn van die zaken waar ik eigenlijk niet over na wil denken of mee bezig wil zijn. Ik heb al genoeg te doen" created="Tue, 09 Nov 2021 10:18:43 GMT"/>
+					</outline>
+				</outline>
+			</outline>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 19:16:11 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 29" created="Fri, 29 Oct 2021 14:25:04 GMT" type="calendarDay" name="29">
 				<outline text="Happy Birthday Internet!" created="Fri, 29 Oct 2021 14:25:05 GMT" type="outline">
