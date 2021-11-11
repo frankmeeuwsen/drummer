@@ -15,12 +15,22 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 09 Nov 2021 12:09:10 GMT</dateModified>
-		<expansionState>1,2,3,11,15</expansionState>
+		<dateModified>Thu, 11 Nov 2021 08:17:12 GMT</dateModified>
+		<expansionState>1,2,4,6,9,10,18,22</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 11" created="Thu, 11 Nov 2021 08:15:59 GMT" type="calendarDay" name="11">
+				<outline text="Volgens mij is het inmiddels al 3 maanden geleden dat ik helemaal alleen thuis was. MIjn lief is naar kantoor, kinderen op school. En ik zit in een leeg huis. Dat is echt heel lekker zo nu en dan. " created="Thu, 11 Nov 2021 08:16:00 GMT" type="outline"/>
+				</outline>
+			<outline text="November 10" created="Wed, 10 Nov 2021 11:46:33 GMT" type="calendarDay" name="10">
+				<outline text="Waarom kost werken in het CMS van klanten altijd meer tijd dan je vooraf denkt dat het zou zijn... De hele ochtend al bezig om pagina's voor een komende campagne in orde te maken. Wat klonk als &quot;een paar afbeeldingen&quot; aanpassen is inmiddels Photoshop, nieuwe beelden zoeken, andere crops maken, tweetaligheid en teruglinks van artikelen naar andere artikelen om het spinnenweb van de campagne in stand te houden. In twee talen. " created="Wed, 10 Nov 2021 13:08:13 GMT" type="outline"/>
+				<outline text="Auto" created="Wed, 10 Nov 2021 11:46:34 GMT" type="outline">
+					<outline text="Onze oude Volvo moest voor de jaarlijkse onderhoudsbeurt naar de garage. Ik krijg zojuist de diagnose wat er aan moet gebeuren en de kans is groot dat dit het laatste jaar is met een auto. De kosten zijn echt gigantisch, naast belasting en parkeervergunning. Dat is het voor ons niet meer waard." created="Wed, 10 Nov 2021 11:46:36 GMT"/>
+					<outline text="Maar nu nog uitzoeken of het slim is de auto nu te verkopen of toch nog wat te repareren en dan te verkopen..." created="Wed, 10 Nov 2021 11:47:39 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 9" created="Tue, 09 Nov 2021 10:13:44 GMT" type="calendarDay" name="09">
 				<outline text="Oude notitieboeken" created="Tue, 09 Nov 2021 11:30:21 GMT" type="outline" wp_postid="17537">
 					<outline text="Tijdens mijn lunch lees ik wat oudere blogposts in mijn feedreader. &lt;a href=&quot;https://alexjj.com/2021/11/04/115353.html?title=theLongevityOfPhysicalNotebooksAndTheirContent&quot;&gt;Het verhaal van Alex over zijn oude notitieboeken&lt;/a&gt; raakt een snaar bij me. Het is heel herkenbaar. Ik heb eveneens een stapel oude notitieboeken die ik op werk heb gebruikt. Zoals Alex het mooi zegt." created="Tue, 09 Nov 2021 11:36:53 GMT"/>
