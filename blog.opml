@@ -15,13 +15,21 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 13 Nov 2021 08:36:39 GMT</dateModified>
-		<expansionState>1,2,3,13,15,17,20,21,29,33</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Sat, 13 Nov 2021 18:42:08 GMT</dateModified>
+		<expansionState>1,2,3,7,9,19,21,23,26,27,35,39</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 13" created="Sat, 13 Nov 2021 06:34:00 GMT" type="calendarDay" name="13">
+				<outline text="Since I am part of the Oldschool Drummer Reading List..." created="Sat, 13 Nov 2021 18:38:09 GMT" type="outline">
+					<outline text="Maybe someone from the community can help me out as well with this strange timezone/hour offset problem I have with Drummer and/or Oldschool. &lt;a href=&quot;http://oldschooldrummers.andysylvester.com/&quot;&gt;The full explanation is on Github&lt;/a&gt;. With screenshots and test scripts. " created="Sat, 13 Nov 2021 18:38:40 GMT"/>
+					<outline text="Bottomline: Hours jump from the correct time to one hour behind. And I can't understand why." created="Sat, 13 Nov 2021 18:39:37 GMT"/>
+					<outline text="But then again, I'm more of a &lt;a href=&quot;http://scripting.com/2021/11/06/160253.html?title=poetsAndPlumbers&quot;&gt;poet than a plumber&lt;/a&gt;..." created="Sat, 13 Nov 2021 18:40:08 GMT"/>
+					</outline>
+				<outline text="Here's another post to explain the problem" created="Sat, 13 Nov 2021 18:05:09 GMT" type="outline">
+					<outline text="With a title and a text!" created="Sat, 13 Nov 2021 18:05:17 GMT"/>
+					</outline>
 				<outline text="Here is a post with a title" created="Sat, 13 Nov 2021 08:28:44 GMT" type="outline">
 					<outline text="To see if we can debug this thing!" created="Sat, 13 Nov 2021 08:28:50 GMT"/>
 					</outline>
