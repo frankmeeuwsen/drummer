@@ -9,18 +9,31 @@
 		<urlHeaderImage>https://pbs.twimg.com/profile_banners/816203/1616318316/1500x500</urlHeaderImage>
 		<urlLinkblogJson>https://s3.amazonaws.com/radio3.io/users/frankmeeuwsen/linkblog.json</urlLinkblogJson>
 		<urlGlossary>http://drummer.scripting.com/frankmeeuwsen/glossary.opml</urlGlossary>
-		<timeZoneOffset>+1</timeZoneOffset>
 		<copyright>We don't need no stinkin' copyright... Mail me on &lt;a href=&quot;mailto:frank@frankmeeuwsen.com&quot; rel=&quot;me&quot;&gt;frank@frankmeeuwsen.com&lt;/a&gt;</copyright>
+		<timeZoneOffset>+1</timeZoneOffset>
 		<ownerTwitterScreenName>frankmeeuwsen</ownerTwitterScreenName>
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 11 Nov 2021 08:17:12 GMT</dateModified>
-		<expansionState>1,2,4,6,9,10,18,22</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sat, 13 Nov 2021 08:36:39 GMT</dateModified>
+		<expansionState>1,2,3,13,15,17,20,21,29,33</expansionState>
+		<lastCursor>1</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 13" created="Sat, 13 Nov 2021 06:34:00 GMT" type="calendarDay" name="13">
+				<outline text="Here is a post with a title" created="Sat, 13 Nov 2021 08:28:44 GMT" type="outline">
+					<outline text="To see if we can debug this thing!" created="Sat, 13 Nov 2021 08:28:50 GMT"/>
+					</outline>
+				<outline text="Today is Aaron Swartz' Day. A time to remember &lt;a href=&quot;https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz&quot;&gt;the Internet's Own Boy&lt;/a&gt;!" created="Sat, 13 Nov 2021 07:01:34 GMT" type="tweet" tweetId="1459416839340150786" tweetUserName="frankmeeuwsen"/>
+				<outline text="Ook nog iets wat ik misschien dit weekend kan bouwen. Binnen mijn Drummer-WordPress koppeling &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues/108&quot;&gt;een link terug sturen&lt;/a&gt; vanaf mijn WordPress blog naar Drummer." created="Sat, 13 Nov 2021 06:39:05 GMT" type="outline"/>
+				<outline text="Een dag die rustig begint. In stilte, terwijl de rest van het gezin nog slaapt. Het eerste wat ik eens heb gedaan is &lt;a href=&quot;https://twitter.com/frankmeeuwsen/status/1459403381378895872&quot;&gt;de mogelijkheid open gezet&lt;/a&gt; om direct via Twitter op mijn nieuwsbrief te abonneren." created="Sat, 13 Nov 2021 06:34:01 GMT"/>
+				<outline text="Omdat Revue nu onderdeel is van Twitter, kun je eenvoudig abonnees aan een Revue nieuwsbrief koppelen" created="Sat, 13 Nov 2021 06:35:21 GMT"/>
+				<outline text="Alleen, ik gebruik Newsletter Glue op mijn eigen WordPress blog. Nieuwsbrieven worden via Mailerlite verstuurd. " created="Sat, 13 Nov 2021 06:35:59 GMT"/>
+				<outline text="Dus heb ik via Zapier een koppeling gemaakt waarbij nieuwe Revue abonnees worden doorgesluisd naar mijn Mailerlite database." created="Sat, 13 Nov 2021 06:36:20 GMT"/>
+				<outline text="Het zou toch mooi zijn als het allemaal eenvoudiger kon. " created="Sat, 13 Nov 2021 06:36:51 GMT"/>
+				<outline text="Het is de vraag hoelang dit blijft werken. Want bij Revue zijn ze ook niet gek. Die zullen het niet tof vinden om als doorvoerluik te worden gebruikt. " created="Sat, 13 Nov 2021 06:37:23 GMT"/>
+				</outline>
 			<outline text="November 11" created="Thu, 11 Nov 2021 08:15:59 GMT" type="calendarDay" name="11">
 				<outline text="Volgens mij is het inmiddels al 3 maanden geleden dat ik helemaal alleen thuis was. MIjn lief is naar kantoor, kinderen op school. En ik zit in een leeg huis. Dat is echt heel lekker zo nu en dan. " created="Thu, 11 Nov 2021 08:16:00 GMT" type="outline"/>
 				</outline>
