@@ -15,9 +15,9 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 13 Nov 2021 18:42:08 GMT</dateModified>
-		<expansionState>1,2,3,7,9,19,21,23,26,27,35,39</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Sun, 14 Nov 2021 08:17:13 GMT</dateModified>
+		<expansionState>2,3,4</expansionState>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
@@ -71,7 +71,7 @@
 			</outline>
 		<outline text="October 2021" created="Sun, 10 Oct 2021 19:16:11 GMT" name="october2021" type="calendarMonth">
 			<outline text="October 29" created="Fri, 29 Oct 2021 14:25:04 GMT" type="calendarDay" name="29">
-				<outline text="Happy Birthday Internet!" created="Fri, 29 Oct 2021 14:25:05 GMT" type="outline">
+				<outline text="Happy Birthday Internet!" created="Fri, 29 Oct 2021 14:25:05 GMT" type="outline" wp_postid="17577">
 					<outline text="At 10:30 p.m., 29 October 1969, the first ARPANET message was sent from this UCLA site to the Stanford Research Institute. Based on packet switching and dynamic resource allocation, the sharing of information digitally from this first node of ARPANET launched the Internet revolution.(&lt;a href=&quot;https://ethw.org/Milestones:Birthplace_of_the_Internet,_1969&quot;&gt;Source&lt;/a&gt;)" created="Fri, 29 Oct 2021 14:32:52 GMT"/>
 					<outline text="That first message? &quot;Lo&quot;. They &lt;a href=&quot;https://www.nsf.gov/news/special_reports/nsf-net/textonly/60s.jsp&quot;&gt;tried&lt;/a&gt; to send &quot;Login&quot;, but the computer crashed. " created="Fri, 29 Oct 2021 14:25:56 GMT"/>
 					<outline text="But, happy birthday internet!" created="Fri, 29 Oct 2021 14:26:45 GMT"/>
