@@ -15,12 +15,23 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 14 Nov 2021 08:17:13 GMT</dateModified>
-		<expansionState>2,3,4</expansionState>
-		<lastCursor>7</lastCursor>
+		<dateModified>Sun, 14 Nov 2021 11:08:48 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>9</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 14" created="Sun, 14 Nov 2021 10:47:28 GMT" type="calendarDay" name="14">
+				<outline text="An update to the Drummer to WordPress script" created="Sun, 14 Nov 2021 10:47:29 GMT" type="outline" wp_postid="17582">
+					<outline text="A few weeks ago &lt;a href=&quot;http://oldschool.scripting.com/frankmeeuwsen/2021/10/23/065437.html?title=publishToWordpressWithDrummer&quot;&gt;I published a Drumkit script&lt;/a&gt; that lets you publish your post from Drummer to WordPress. It works fine, but I had one small bug I needed to fix and one nice-to-have for myself. I can say I fixed both!" created="Sun, 14 Nov 2021 10:47:38 GMT"/>
+					<outline text="First, in the original Drumkit script I have a few lines with HTML in it. When you have an (inline) image in your post, you want it to show properly on your WordPress blog. So I surrounded it with the basic tags for an image. Unfortunately Drummer, where the script lives, mangles this HTML every now and again. It tries to render the HTML when you open the script and it adds a few characters. It was all kind of weird. An to be honest, using HTML in a script like this never felt good to me." created="Sun, 14 Nov 2021 10:49:34 GMT"/>
+					<outline text="So when I read about &lt;a href=&quot;http://scripting.com/drummer/blog/2021/11/13/163211.html?title=markdownAsAnInterchangeFormat&quot;&gt;Dave's plans&lt;/a&gt; to include Markdown support an idea hit me. My WordPress blog supports Markdown as well. So why not send the blogpost as Markdown and let WordPress figure it all out? So that's what I did, especially with the images. Instead of using HTML in the script, I surround the image with the Markdown equivalent. " created="Sun, 14 Nov 2021 10:51:29 GMT"/>
+					<outline text="Since I don't pay enough attention to filenames, they sometimes can have spaces in them. I had to replace these with `%20` so my Markdown processor in WordPress will not choke on it. Thank you for &lt;a href=&quot;http://docserver.scripting.com/?verb=string.multipleReplaceAll&quot;&gt;multipleReplaceAll&lt;/a&gt; in the Drumkit scripting language." created="Sun, 14 Nov 2021 10:53:08 GMT"/>
+					<outline text="The second thing I wanted is to add a link back from the WordPress post to my Oldschool blog. I had some great help from Dave and Amit to figure out how to build the URL to my post. &lt;a href=&quot;https://www.amitgawande.com/2021/10/23/getting-post-url.html&quot;&gt;This script from Amit&lt;/a&gt; was all I needed. It just worked. I added the script to mine, build a small link back to the original blogpost and I can publish it. " created="Sun, 14 Nov 2021 10:54:16 GMT"/>
+					<outline text="&lt;a href=&quot;https://gist.github.com/frankmeeuwsen/4d6d514539661d660285497eff53557d&quot;&gt;Here is my new script&lt;/a&gt; to publish from Drummer to WordPress, using Markdown and have a link back to the original! " created="Sun, 14 Nov 2021 10:56:21 GMT"/>
+					<outline text="&lt;b&gt;Update&lt;/b&gt;: Here's &lt;a href=&quot;https://diggingthedigital.com/an-update-to-the-drummer-to-wordpress-script/&quot;&gt;the same post on my WordPress blog&lt;/a&gt;. Isn't it great how the web works?" created="Sun, 14 Nov 2021 11:08:08 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 13" created="Sat, 13 Nov 2021 06:34:00 GMT" type="calendarDay" name="13">
 				<outline text="Since I am part of the Oldschool Drummer Reading List..." created="Sat, 13 Nov 2021 18:38:09 GMT" type="outline">
 					<outline text="Maybe someone from the community can help me out as well with this strange timezone/hour offset problem I have with Drummer and/or Oldschool. &lt;a href=&quot;http://oldschooldrummers.andysylvester.com/&quot;&gt;The full explanation is on Github&lt;/a&gt;. With screenshots and test scripts. " created="Sat, 13 Nov 2021 18:38:40 GMT"/>
