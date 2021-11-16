@@ -15,12 +15,15 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 14 Nov 2021 11:08:48 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>9</lastCursor>
+		<dateModified>Mon, 15 Nov 2021 12:12:21 GMT</dateModified>
+		<expansionState>1,2,4,5</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 15" created="Mon, 15 Nov 2021 12:12:20 GMT" type="calendarDay" name="15">
+				<outline text="" created="Mon, 15 Nov 2021 12:12:21 GMT" type="outline"/>
+				</outline>
 			<outline text="November 14" created="Sun, 14 Nov 2021 10:47:28 GMT" type="calendarDay" name="14">
 				<outline text="An update to the Drummer to WordPress script" created="Sun, 14 Nov 2021 10:47:29 GMT" type="outline" wp_postid="17582">
 					<outline text="A few weeks ago &lt;a href=&quot;http://oldschool.scripting.com/frankmeeuwsen/2021/10/23/065437.html?title=publishToWordpressWithDrummer&quot;&gt;I published a Drumkit script&lt;/a&gt; that lets you publish your post from Drummer to WordPress. It works fine, but I had one small bug I needed to fix and one nice-to-have for myself. I can say I fixed both!" created="Sun, 14 Nov 2021 10:47:38 GMT"/>
