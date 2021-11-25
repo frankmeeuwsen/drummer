@@ -15,9 +15,9 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 25 Nov 2021 08:30:29 GMT</dateModified>
-		<expansionState>1,2,3</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Thu, 25 Nov 2021 09:36:10 GMT</dateModified>
+		<expansionState>1,2,3,8,14,18,23</expansionState>
+		<lastCursor>38</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
@@ -166,6 +166,7 @@
 						</outline>
 					<outline text="So there you have it. This is the first version of my Drummer to WordPress script. Let me know what you think and especially what should be improved!" created="Sat, 23 Oct 2021 07:37:49 GMT"/>
 					<outline text="Yes, this post is also published (and slightly editted) on my &lt;a href=&quot;https://diggingthedigital.com/publish-to-wordpress-with-drummer/&quot;&gt;WordPress blog&lt;/a&gt;!" created="Sat, 23 Oct 2021 07:47:31 GMT"/>
+					<outline text="Update nov 25th: Check out &lt;a href=&quot;http://oldschool.scripting.com/frankmeeuwsen/2021/11/14/104729.html?title=anUpdateToTheDrummerToWordpressScript&quot;&gt;my follow-up post&lt;/a&gt; with slight improvements to the original script!" created="Thu, 25 Nov 2021 09:34:55 GMT"/>
 					</outline>
 				</outline>
 			<outline text="October 22" created="Fri, 22 Oct 2021 07:19:23 GMT" type="calendarDay" name="22">
