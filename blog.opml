@@ -15,12 +15,19 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 19 Nov 2021 15:45:04 GMT</dateModified>
-		<expansionState>1</expansionState>
-		<lastCursor>1</lastCursor>
+		<dateModified>Thu, 25 Nov 2021 08:30:29 GMT</dateModified>
+		<expansionState>1,2,3</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 25" created="Thu, 25 Nov 2021 08:27:44 GMT" type="calendarDay" name="25">
+				<outline text="Nike in Roblox" created="Thu, 25 Nov 2021 08:27:45 GMT" type="outline" wp_postid="17655">
+					<outline text="Adformatie &lt;a href=&quot;https://www.adformatie.nl/gedragsverandering/nike-gebruikt-populaire-game-roblox-om-bewegen-te-promoten?tid=TIDP1801000X28BB3CAB0DC649709D0385A1FD80B39CYI5&amp;utm_campaign=ADF_NB%20Adformatie%20dag&amp;utm_medium=email&amp;utm_source=SMG&amp;utm_content=1546_25%20nov%20(wk%2047)&quot;&gt;bericht er vandaag over&lt;/a&gt;, Nike heeft haar eigen wereld in Roblox. Dit populaire spelplatform krijgt meer en meer aandacht van merken. Opvallend is wat Nike doet om virtueel aan real life te verbinden " created="Thu, 25 Nov 2021 08:27:49 GMT"/>
+					<outline text="&quot;Nike wil die doelgroep aansporen om meer te bewegen door ze spelletjes te laten doen op hun smartphone. De bewegings- en versnellingssensoren in een smartphone kunnen de activiteit van de gebruiker doorzetten naar Roblox. Zo kan de gebruiker in&lt;b&gt; het echt bewegen om in Roblox verre sprongen te maken&lt;/b&gt; of te sprinten. Dit soort activiteiten kunnen voorkomen dat gamers lange tijd stil voor de computer zitten.&quot;" created="Thu, 25 Nov 2021 08:29:05 GMT"/>
+					<outline text="Dat is nou een slimme manier om technologie in te zetten. Ik heb ook al even in Nikeland rond gelopen en ben onder de indruk van de grootte, de kwaliteit én de drukte in de wereld. Mooi!" created="Thu, 25 Nov 2021 08:29:28 GMT"/>
+					</outline>
+				</outline>
 			<outline text="November 19" created="Fri, 19 Nov 2021 15:40:58 GMT" type="calendarDay" name="19">
 				<outline text="Zo te zien is Dave bezig om [Markdown support](https://github.com/scripting/drummerRFC/issues/14) toe te voegen aan Drummer en Old School. _Samen_ met de community zoeken ze uit  wat de beste manier is. Dat is altijd de beste manier. " created="Fri, 19 Nov 2021 15:40:59 GMT" type="markdown"/>
 				<outline text="" created="Fri, 19 Nov 2021 15:43:04 GMT" inlineImage="https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Screenshot-Drummer-20211119164246.png"/>
