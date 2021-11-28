@@ -15,12 +15,16 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 25 Nov 2021 09:36:10 GMT</dateModified>
-		<expansionState>1,2,3,8,14,18,23</expansionState>
-		<lastCursor>38</lastCursor>
+		<dateModified>Sat, 27 Nov 2021 20:08:38 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 27" created="Sat, 27 Nov 2021 07:24:54 GMT" type="calendarDay" name="27">
+				<outline text="Na een middag chauffeuren voor het hockeyteam, en aanmoedigen langs de lijn zit de dag" created="Sat, 27 Nov 2021 20:07:22 GMT" type="outline"/>
+				<outline text="Het is weekend, het is slecht weer en ik ben te vroeg wakker. Mooi tijd om eens rustig wat RSS feeds te lezen en mijn &lt;a href=&quot;http://nieuws.diggingthedigital.com/&quot;&gt;wekelijkse nieuwsbrief&lt;/a&gt; voor maandag al voor te bereiden" created="Sat, 27 Nov 2021 07:24:55 GMT" type="outline"/>
+				</outline>
 			<outline text="November 25" created="Thu, 25 Nov 2021 08:27:44 GMT" type="calendarDay" name="25">
 				<outline text="Nike in Roblox" created="Thu, 25 Nov 2021 08:27:45 GMT" type="outline" wp_postid="17655">
 					<outline text="Adformatie &lt;a href=&quot;https://www.adformatie.nl/gedragsverandering/nike-gebruikt-populaire-game-roblox-om-bewegen-te-promoten?tid=TIDP1801000X28BB3CAB0DC649709D0385A1FD80B39CYI5&amp;utm_campaign=ADF_NB%20Adformatie%20dag&amp;utm_medium=email&amp;utm_source=SMG&amp;utm_content=1546_25%20nov%20(wk%2047)&quot;&gt;bericht er vandaag over&lt;/a&gt;, Nike heeft haar eigen wereld in Roblox. Dit populaire spelplatform krijgt meer en meer aandacht van merken. Opvallend is wat Nike doet om virtueel aan real life te verbinden " created="Thu, 25 Nov 2021 08:27:49 GMT"/>
@@ -141,6 +145,7 @@
 				<outline text="Publish to WordPress with Drummer" created="Sat, 23 Oct 2021 06:54:37 GMT" type="outline" wp_postid="17402" metaImage="https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Screenshot-Drummer-20211024224129.png">
 					<outline text="Why not crosspost to your WordPress blog with your Drummer CMS? When you publish a new thought on your Drummer blog, you can also post it on WordPress? I think I have a first version of a script in Drummer that makes this possible. It makes use of the &lt;a href=&quot;http://docserver.scripting.com/drummer/scripting.opml#1629216924000&quot;&gt;global root object&lt;/a&gt; to store sensitive data of your WordPress installation, like the endpoint and an authorization password. " created="Sat, 23 Oct 2021 06:54:42 GMT"/>
 					<outline text="Here is &lt;a href=&quot;https://youtu.be/_QTwmc_i8nQ&quot;&gt;a short video&lt;/a&gt; how the script works (for some reason the embedded version doesn't work. Probably some https-hoopla)." created="Sat, 23 Oct 2021 07:31:09 GMT"/>
+					<outline text="&lt;b&gt;Update nov 25th&lt;/b&gt;: Check out &lt;a href=&quot;http://oldschool.scripting.com/frankmeeuwsen/2021/11/14/104729.html?title=anUpdateToTheDrummerToWordpressScript&quot;&gt;my follow-up post&lt;/a&gt; with slight improvements to the original script!" created="Thu, 25 Nov 2021 09:34:55 GMT"/>
 					<outline text="&lt;b&gt;Caveat&lt;/b&gt;: I am not a programmer, the loop I wrote is pretty crude and could be done more efficient and nicer I think. " created="Sat, 23 Oct 2021 06:59:24 GMT"/>
 					<outline text="So first in Drummer, you need to open your root-file through File &gt; Special Files " created="Sat, 23 Oct 2021 07:10:53 GMT"/>
 					<outline text="" created="Sat, 23 Oct 2021 07:40:41 GMT" inlineImage="https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Screenshot-Drummer-20211023091151.png"/>
@@ -166,7 +171,6 @@
 						</outline>
 					<outline text="So there you have it. This is the first version of my Drummer to WordPress script. Let me know what you think and especially what should be improved!" created="Sat, 23 Oct 2021 07:37:49 GMT"/>
 					<outline text="Yes, this post is also published (and slightly editted) on my &lt;a href=&quot;https://diggingthedigital.com/publish-to-wordpress-with-drummer/&quot;&gt;WordPress blog&lt;/a&gt;!" created="Sat, 23 Oct 2021 07:47:31 GMT"/>
-					<outline text="Update nov 25th: Check out &lt;a href=&quot;http://oldschool.scripting.com/frankmeeuwsen/2021/11/14/104729.html?title=anUpdateToTheDrummerToWordpressScript&quot;&gt;my follow-up post&lt;/a&gt; with slight improvements to the original script!" created="Thu, 25 Nov 2021 09:34:55 GMT"/>
 					</outline>
 				</outline>
 			<outline text="October 22" created="Fri, 22 Oct 2021 07:19:23 GMT" type="calendarDay" name="22">
