@@ -15,11 +15,29 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 27 Nov 2021 20:08:38 GMT</dateModified>
-		<expansionState>1,2</expansionState>
+		<dateModified>Thu, 02 Dec 2021 12:11:20 GMT</dateModified>
+		<expansionState>1,2,3,16,17</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
+		<outline text="December 2021" created="Thu, 02 Dec 2021 11:09:50 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 2" created="Thu, 02 Dec 2021 11:09:51 GMT" type="calendarDay" name="02">
+				<outline text="Decentralized Knowledge Management and Web3" created="Thu, 02 Dec 2021 11:09:52 GMT" type="outline" wp_postid="17705">
+					<outline text="So here's the thing. A lot is being said and written about this Web3 thing. A lot of people seem to know what it is. A whole lot more have no clue." created="Thu, 02 Dec 2021 11:09:59 GMT"/>
+					<outline text="I am somewhat inbetween. That's why I'm glad with posts like Amit's &quot;&lt;a href=&quot;https://ol.amitgawande.com/2021/11/30/004427.html?title=thoughtsOnWeb3&quot;&gt;Thoughts on Web3&lt;/a&gt;&quot; and Robin Sloan's &quot;&lt;a href=&quot;https://society.robinsloan.com/archive/notes-on-web3/&quot;&gt;Notes on Web3&lt;/a&gt;&quot;. " created="Thu, 02 Dec 2021 11:10:46 GMT"/>
+					<outline text="They give me context, ideas, points of view I might consider exploring" created="Thu, 02 Dec 2021 11:11:26 GMT"/>
+					<outline text="I like to explore this in my own environment, &lt;a href=&quot;https://obsidian.md&quot;&gt;Obsidian&lt;/a&gt;. " created="Thu, 02 Dec 2021 11:11:39 GMT"/>
+					<outline text="In Obsidian I can build my own web of thoughts, ideas, connect different sentences, blocks, paragraphs. " created="Thu, 02 Dec 2021 11:12:31 GMT"/>
+					<outline text="And with it, build my own train of thought on this topic. I can build my own topicmap and get a stance on this very important subject (sarcasm not included)" created="Thu, 02 Dec 2021 11:12:54 GMT"/>
+					<outline text="Now...I can link to Amit's post and Robin's post. Or I could download a local version in Markdown and import it in my Obsidian. " created="Thu, 02 Dec 2021 11:11:59 GMT"/>
+					<outline text="But why not have some sort of inclusion of Amit's OPML file of his post in my Obsidian outliner? And have Robin's posts divided per paragraph in an outliner?" created="Thu, 02 Dec 2021 11:14:09 GMT"/>
+					<outline text="That way I can transclude the interesting blocks, build upon it and expand on their thinking. " created="Thu, 02 Dec 2021 11:14:49 GMT"/>
+					<outline text="Even better, when I want to publish from Obsidian to my own site, it could include the relevant blocks from their post as well" created="Thu, 02 Dec 2021 11:15:08 GMT"/>
+					<outline text="And even alert them with a webmention I posted something about a topic and I linked to them. So they can include my post and build upon it." created="Thu, 02 Dec 2021 11:15:35 GMT"/>
+					<outline text="Decentralized Knowledge Management!" created="Thu, 02 Dec 2021 11:16:11 GMT"/>
+					</outline>
+				</outline>
+			</outline>
 		<outline text="November 2021" created="Tue, 09 Nov 2021 10:13:43 GMT" name="november2021" type="calendarMonth">
 			<outline text="November 27" created="Sat, 27 Nov 2021 07:24:54 GMT" type="calendarDay" name="27">
 				<outline text="Na een middag chauffeuren voor het hockeyteam, en aanmoedigen langs de lijn zit de dag" created="Sat, 27 Nov 2021 20:07:22 GMT" type="outline"/>
