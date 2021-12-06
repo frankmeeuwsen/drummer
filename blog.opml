@@ -11,12 +11,13 @@
 		<urlGlossary>http://drummer.scripting.com/frankmeeuwsen/glossary.opml</urlGlossary>
 		<copyright>We don't need no stinkin' copyright... Mail me on &lt;a href=&quot;mailto:frank@frankmeeuwsen.com&quot; rel=&quot;me&quot;&gt;frank@frankmeeuwsen.com&lt;/a&gt;</copyright>
 		<timeZoneOffset>+1</timeZoneOffset>
+		<urlBlogWebsite>https://www.frankmeeuwsen.xyz</urlBlogWebsite>
 		<ownerTwitterScreenName>frankmeeuwsen</ownerTwitterScreenName>
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Thu, 02 Dec 2021 12:11:20 GMT</dateModified>
-		<expansionState>1,2,3,16,17</expansionState>
+		<dateModified>Sun, 05 Dec 2021 14:08:51 GMT</dateModified>
+		<expansionState>1,2,4,5</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
