@@ -16,9 +16,9 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sun, 05 Dec 2021 14:08:51 GMT</dateModified>
-		<expansionState>1,2,4,5</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Tue, 07 Dec 2021 13:18:49 GMT</dateModified>
+		<expansionState>1,2</expansionState>
+		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Thu, 02 Dec 2021 11:09:50 GMT" name="december2021" type="calendarMonth">
