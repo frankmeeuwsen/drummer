@@ -16,12 +16,18 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Tue, 07 Dec 2021 13:18:49 GMT</dateModified>
-		<expansionState>1,2</expansionState>
+		<dateModified>Sat, 18 Dec 2021 07:25:59 GMT</dateModified>
+		<expansionState>1,2,7</expansionState>
 		<lastCursor>3</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2021" created="Thu, 02 Dec 2021 11:09:50 GMT" name="december2021" type="calendarMonth">
+			<outline text="December 18" created="Sat, 18 Dec 2021 07:13:07 GMT" type="calendarDay" name="18">
+				<outline text="Het is niet dat ik stilzit omdat het hier stil is. Of op een andere plek. Maar soms zijn er gewoon andere zaken gaande waarbij ik niet direct denk om iets te posten. Het kan verkeren. Dat weet ik inmiddels al 20 jaar. Een dagelijkse blogger zal ik wel nooit worden. " created="Sat, 18 Dec 2021 07:13:08 GMT" type="outline"/>
+				<outline text="Waar ik dit weekend wel eens naar wil kijken is het &lt;a href=&quot;http://tweets.opml.org/&quot;&gt;Tweets.opml&lt;/a&gt; project van Dave Winer. En van dezelfde man zijn &lt;a href=&quot;http://docserver.scripting.com/drummer/search.opml&quot;&gt;Daytona Search project&lt;/a&gt;. Ik zag het langs de zijlijn langskomen en ben benieuwd wat het doet en waarom" created="Sat, 18 Dec 2021 07:14:10 GMT" type="tweet" tweetId="1472105839917944836" tweetUserName="frankmeeuwsen"/>
+				<outline text="Maar goed. Daarnaast hou ik ook de koersen van bitcoin en andere crypto in de gaten. En lees ik bij over Web3 en NFT. " created="Sat, 18 Dec 2021 07:14:50 GMT"/>
+				<outline text="Nieuwe ontwikkelingen rondom de fundamenten van het web. Of dat nu gaat over interoperabiliteit, toegankelijkheid van informatie of digitaal eigenaarschap. " created="Sat, 18 Dec 2021 07:15:17 GMT"/>
+				</outline>
 			<outline text="December 2" created="Thu, 02 Dec 2021 11:09:51 GMT" type="calendarDay" name="02">
 				<outline text="Decentralized Knowledge Management and Web3" created="Thu, 02 Dec 2021 11:09:52 GMT" type="outline" wp_postid="17705">
 					<outline text="So here's the thing. A lot is being said and written about this Web3 thing. A lot of people seem to know what it is. A whole lot more have no clue." created="Thu, 02 Dec 2021 11:09:59 GMT"/>
