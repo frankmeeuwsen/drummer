@@ -11,16 +11,22 @@
 		<urlGlossary>http://drummer.scripting.com/frankmeeuwsen/glossary.opml</urlGlossary>
 		<copyright>We don't need no stinkin' copyright... Mail me on &lt;a href=&quot;mailto:frank@frankmeeuwsen.com&quot; rel=&quot;me&quot;&gt;frank@frankmeeuwsen.com&lt;/a&gt;</copyright>
 		<timeZoneOffset>+1</timeZoneOffset>
-		<urlBlogWebsite>https://www.frankmeeuwsen.xyz</urlBlogWebsite>
 		<ownerTwitterScreenName>frankmeeuwsen</ownerTwitterScreenName>
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Sat, 08 Jan 2022 19:00:15 GMT</dateModified>
-		<expansionState>1</expansionState>
+		<dateModified>Tue, 22 Feb 2022 08:12:35 GMT</dateModified>
+		<expansionState>1,2,6</expansionState>
 		<lastCursor>2</lastCursor>
 		</head>
 	<body>
+		<outline text="February 2022" created="Tue, 22 Feb 2022 08:09:12 GMT" name="february2022" type="calendarMonth">
+			<outline text="February 22" created="Tue, 22 Feb 2022 08:09:13 GMT" type="calendarDay" name="22">
+				<outline text="Oh it has been some time." created="Tue, 22 Feb 2022 08:09:14 GMT" type="outline"/>
+				<outline text="As with all new blogsystems, I try them, get excited and then I forget about them because I have my own site with WordPress. But to be honest, Drummer is still one of the easiest and approachable blogging systems. It just works. You log in with your Twitter account and you're good to go. " created="Tue, 22 Feb 2022 08:11:45 GMT"/>
+				<outline text="What would make it interesting is when Twitter really rolls out their Twitter articles that they're testing now. How would this relate to a lot of blogging platforms? Will it be open? Will there be interoperability? I'm not sure. If it were Meta I would say &quot;never in a million years&quot;. But with Twitter, you never know..." created="Tue, 22 Feb 2022 08:10:18 GMT"/>
+				</outline>
+			</outline>
 		<outline text="December 2021" created="Thu, 02 Dec 2021 11:09:50 GMT" name="december2021" type="calendarMonth">
 			<outline text="December 18" created="Sat, 18 Dec 2021 07:13:07 GMT" type="calendarDay" name="18">
 				<outline text="Het is niet dat ik stilzit omdat het hier stil is. Of op een andere plek. Maar soms zijn er gewoon andere zaken gaande waarbij ik niet direct denk om iets te posten. Het kan verkeren. Dat weet ik inmiddels al 20 jaar. Een dagelijkse blogger zal ik wel nooit worden. " created="Sat, 18 Dec 2021 07:13:08 GMT" type="outline"/>
