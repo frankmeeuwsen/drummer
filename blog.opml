@@ -15,11 +15,19 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 24 Aug 2022 10:24:13 GMT</dateModified>
-		<expansionState>1,2,6,7,11</expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Fri, 26 Aug 2022 07:28:43 GMT</dateModified>
+		<expansionState>1,2,3,6,7,11,12,16</expansionState>
+		<lastCursor>4</lastCursor>
 		</head>
 	<body>
+		<outline text="August 2022" created="Fri, 26 Aug 2022 07:24:52 GMT" name="august2022" type="calendarMonth">
+			<outline text="August 26" created="Fri, 26 Aug 2022 07:24:53 GMT" type="calendarDay" name="26">
+				<outline text="De vakantie zit er op. Wat zal ik nu eens gaan doen? " created="Fri, 26 Aug 2022 07:24:54 GMT" type="outline">
+					<outline text="In elk geval zijn er weer genoeg blogsystemen en -ontwikkelingen om te onderzoeken en te proberen. Nu nog de tijd vinden! :-)" created="Fri, 26 Aug 2022 07:25:17 GMT"/>
+					</outline>
+				<outline text="Yep. Woodstock '99 Trainwreck op Netflix laat zien wat een shitshow het toen was. Maar ze laten één optreden niet zien wat nog meer dan Limp Bizkit de boel liet ontploffen. Rage Against The Machine met een brandende Amerikaanse vlag op het podium. Check " type="link" created="Thu Aug 25 22:01:19 +0000 2022" tweetId="1562923099397431297" tweetUserName="frankmeeuwsen" url="https://youtu.be/F9S-JVKw0mE?t=3702"/>
+				</outline>
+			</outline>
 		<outline text="maart 2022" created="Fri, 18 Mar 2022 05:45:19 GMT" name="maart2022" type="calendarMonth">
 			<outline text="maart 18" created="Fri, 18 Mar 2022 05:45:20 GMT" type="calendarDay" name="18">
 				<outline text="Goodmorning punks!" created="Fri, 18 Mar 2022 05:45:21 GMT" type="outline"/>
