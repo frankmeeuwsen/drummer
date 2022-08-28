@@ -6,7 +6,7 @@
 		<flPublic>true</flPublic>
 		<urlPublic>http://drummer.scripting.com/frankmeeuwsen/blog.opml</urlPublic>
 		<urlAboutOpml>http://drummer.scripting.com/frankmeeuwsen/about.opml</urlAboutOpml>
-		<urlHeaderImage>https://pbs.twimg.com/profile_banners/816203/1616318316/1500x500</urlHeaderImage>
+		<urlHeaderImage>https://pbs.twimg.com/profile_banners/816203/1645736184/1500x500</urlHeaderImage>
 		<urlLinkblogJson>https://s3.amazonaws.com/radio3.io/users/frankmeeuwsen/linkblog.json</urlLinkblogJson>
 		<urlGlossary>http://drummer.scripting.com/frankmeeuwsen/glossary.opml</urlGlossary>
 		<copyright>We don't need no stinkin' copyright... Mail me on &lt;a href=&quot;mailto:frank@frankmeeuwsen.com&quot; rel=&quot;me&quot;&gt;frank@frankmeeuwsen.com&lt;/a&gt;</copyright>
@@ -15,12 +15,24 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 26 Aug 2022 07:28:43 GMT</dateModified>
-		<expansionState>1,2,3,6,7,11,12,16</expansionState>
+		<dateModified>Sun, 28 Aug 2022 16:24:55 GMT</dateModified>
+		<expansionState>1,2,3,13,20,31,34,37</expansionState>
 		<lastCursor>4</lastCursor>
 		</head>
 	<body>
 		<outline text="August 2022" created="Fri, 26 Aug 2022 07:24:52 GMT" name="august2022" type="calendarMonth">
+			<outline text="August 28" created="Sun, 28 Aug 2022 12:05:54 GMT" type="calendarDay" name="28">
+				<outline text="Overstappen op glasvezel. " created="Sun, 28 Aug 2022 16:13:34 GMT" type="outline" wp_postid="19023">
+					<outline text="Inmiddels heb ik een vergelijkend warenonderzoek gedaan om over te stappen op glasvezel internet op ons adres. T-Mobile stopt met hun DSL verbinding. Ik heb een mooie aanbieding van ze gekregen waar de andere aanbieders niet tegenop konden. Zelfs niet inclusief cashback en kortingen. T-Mobile werkt al jaren zoals het hoort. Zo eens, twee keer per jaar zijn er wat strubbelingen. Maar verder werkt het. En zo zou internet (en TV!) moeten zijn, it just works. " created="Sun, 28 Aug 2022 16:18:02 GMT"/>
+					<outline text="Het liefst zou een lokale aanbieder hebben, of een buurtcollectief wat voor een goede glasvezelverbinding zorgt. Ik heb het nog niet kunnen vinden. Natuurlijk is T-Mobile net zo'n winstgedreven organisatie als Ziggo of KPN. Sinds ik Ben Tarnoff's Internet for the People (website &lt;a href=&quot;https://www.bentarnoff.com/&quot;&gt;auteur&lt;/a&gt;/&lt;a href=&quot;https://www.versobooks.com/books/3927-internet-for-the-people#:~:text=Reviews,that%20have%20remade%20our%20lives.&quot;&gt;boek&lt;/a&gt;) heb gelezen, ben ik er nog meer van overtuigd dat het basisprincipe van internettoegang moet veranderen. Niet gebaseerd op winstmaximalisatie maar als publieke nutsvoorziening. Maar ja... overheid en ICT-trajecten...
+" created="Sun, 28 Aug 2022 16:23:04 GMT"/>
+					</outline>
+				<outline text="Oud-medewerkers van Instagram, Tesla, Google, Snap, Slack, Pinterest en Amazon besluiten een nieuwe browser te maken. &lt;a href=&quot;https://thebrowser.company/&quot;&gt;Arc&lt;/a&gt;. Ik ben benieuwd of het wat is! Er is namelijk een wachtlijst. Lekker hip hoor. " created="Sun, 28 Aug 2022 12:05:55 GMT" type="outline"/>
+				</outline>
+			<outline text="August 27" created="Sat, 27 Aug 2022 13:20:10 GMT" type="calendarDay" name="27">
+				<outline text="Vandaag zit ik weer eens te puzzelen met Glitch, Cloudflare en Drummer. Zouden ze zijn te koppelen voor een eigen domein?" created="Sat, 27 Aug 2022 13:20:11 GMT" type="outline"/>
+				<outline text="Om de een of andere reden zit er altijd teveel tijd tussen de momenten dat ik zoiets doe. En dan moet ik steeds weer uitvogelen hoe ik het voor elkaar moet krijgen..." created="Sat, 27 Aug 2022 13:31:01 GMT"/>
+				</outline>
 			<outline text="August 26" created="Fri, 26 Aug 2022 07:24:53 GMT" type="calendarDay" name="26">
 				<outline text="De vakantie zit er op. Wat zal ik nu eens gaan doen? " created="Fri, 26 Aug 2022 07:24:54 GMT" type="outline">
 					<outline text="In elk geval zijn er weer genoeg blogsystemen en -ontwikkelingen om te onderzoeken en te proberen. Nu nog de tijd vinden! :-)" created="Fri, 26 Aug 2022 07:25:17 GMT"/>
