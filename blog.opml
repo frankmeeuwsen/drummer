@@ -15,11 +15,33 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 16 Nov 2022 13:42:23 GMT</dateModified>
-		<expansionState></expansionState>
-		<lastCursor>5</lastCursor>
+		<dateModified>Wed, 30 Nov 2022 17:44:21 GMT</dateModified>
+		<expansionState>1,2,3,5,13,18,19,20</expansionState>
+		<lastCursor>2</lastCursor>
 		</head>
 	<body>
+		<outline text="November 2022" created="Wed, 30 Nov 2022 13:28:53 GMT" name="november2022" type="calendarMonth">
+			<outline text="November 30" created="Wed, 30 Nov 2022 13:28:54 GMT" type="calendarDay" name="30">
+				<outline text="River Cross" created="Wed, 30 Nov 2022 17:30:26 GMT" type="outline" wp_postid="19364">
+					<outline text="Wie mij kent weet, ik ben een groot fan van Pearl Jam. Hun muziek heeft me door mijn hele leven geholpen. De teksten, de fans, de tours, de muziek, de volhardenheid van de band. " created="Wed, 30 Nov 2022 17:30:29 GMT"/>
+					<outline text="Zojuist hoorde ik het nummer River Cross van hun laatste album Gigaton. Al weer 2 jaar oud. De tekst en het pompende geluid van de organ komen zo stevig binnen bij me. " created="Wed, 30 Nov 2022 17:31:16 GMT">
+						<outline text="Let it be a lie that all futures die" created="Wed, 30 Nov 2022 17:32:56 GMT"/>
+						<outline text="While the government thrives on discontent" created="Wed, 30 Nov 2022 17:33:02 GMT"/>
+						<outline text="And there's no such thing as clear" created="Wed, 30 Nov 2022 17:33:03 GMT"/>
+						<outline text="Proselytizing and profitizing" created="Wed, 30 Nov 2022 17:33:04 GMT"/>
+						<outline text="As our will all but disappears" created="Wed, 30 Nov 2022 17:33:04 GMT"/>
+						</outline>
+					<outline text="&lt;a href=&quot;https://www.youtube.com/watch?v=XvRuZIyV1Eo&amp;feature=youtu.be&quot;&gt;Kijk en luister zelf&lt;/a&gt;. " created="Wed, 30 Nov 2022 17:33:06 GMT"/>
+					</outline>
+				<outline text="De wijze waarop je in FeedLand een eigen &quot;&lt;a href=&quot;http://docs.feedland.org/newsProducts.opml&quot;&gt;newsproduct&lt;/a&gt;&quot; kunt maken geeft wel een mogelijkheid om bv een losse pagina te maken met alle feeds die ik produceer. Van blog tot linkblog tot Mastodon tot hardlopen etc. " created="Wed, 30 Nov 2022 13:33:25 GMT" type="outline"/>
+				<outline text="FeedLand testen" created="Wed, 30 Nov 2022 13:28:55 GMT" type="outline">
+					<outline text="Zo'n dag om &lt;a href=&quot;http://feedland.org/&quot;&gt;FeedLand&lt;/a&gt; eens te testen. En dan kom je automatisch weer bij Drummer en Radio3 uit natuurlijk. " created="Wed, 30 Nov 2022 13:29:30 GMT"/>
+					<outline text="De eenvoud om hier iets te posten, dat kan WordPress nog steeds niet evenaren. Maar ondanks mijn koppeling tussen Drummer en WordPress gebruik ik dit toch onvoldoende. Er is dus ergens nog een hobbel om &quot;even&quot; iets te posten op mijn blog. " created="Wed, 30 Nov 2022 13:30:18 GMT"/>
+					<outline text="De vorm? Het feit dat een notitie makkelijk tussen andere langere posts kan komen? Omdat op die manier de focus van het blog weer wat verwaterd? Al zou dat me niet moeten tegenhouden. " created="Wed, 30 Nov 2022 13:31:07 GMT"/>
+					<outline text="Altijd weer al die gedachten over online publiceren!" created="Wed, 30 Nov 2022 13:31:53 GMT"/>
+					</outline>
+				</outline>
+			</outline>
 		<outline text="August 2022" created="Fri, 26 Aug 2022 07:24:52 GMT" name="august2022" type="calendarMonth">
 			<outline text="August 28" created="Sun, 28 Aug 2022 12:05:54 GMT" type="calendarDay" name="28">
 				<outline text="Overstappen op glasvezel. " created="Sun, 28 Aug 2022 16:13:34 GMT" type="outline" wp_postid="19023">
