@@ -15,11 +15,28 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Wed, 30 Nov 2022 17:44:21 GMT</dateModified>
-		<expansionState>1,2,3,5,13,18,19,20</expansionState>
-		<lastCursor>2</lastCursor>
+		<dateModified>Fri, 02 Dec 2022 17:28:36 GMT</dateModified>
+		<expansionState>1,2,3,12</expansionState>
+		<lastCursor>8</lastCursor>
 		</head>
 	<body>
+		<outline text="December 2022" created="Thu, 01 Dec 2022 09:52:09 GMT" name="december2022" type="calendarMonth">
+			<outline text="December 2" created="Fri, 02 Dec 2022 07:05:26 GMT" type="calendarDay" name="02">
+				<outline text="Klotecorona. " created="Fri, 02 Dec 2022 17:24:30 GMT" type="outline">
+					<outline text="Helaas is de stevige griep overgegaan in een vole positieve besmetting. 5 Dagen niet naar buiten dus! En vandaag veel uitgezocht hoe we het hier thuis moeten doen met besmettingen die al bijna zijn afgelopen of misschien nog kunnen komen. De conclusie na een lang gesprek met de GGD: We mogen wel bij elkaar zijn in 1 ruimte hier binnen, maar we moeten vooral opletten of we klachten krijgen die bij een besmetting kunnen horen. " created="Fri, 02 Dec 2022 17:27:22 GMT"/>
+					<outline text="Dus als onze oudste nu nog klachtenvrij is en dat blijft zo, dan mag zij gewoon naar buiten. Wij houden wel wat afstand van elkaar maar we hoeven niet in isolatie. " created="Fri, 02 Dec 2022 17:26:11 GMT"/>
+					<outline text="Sowieso was de isolatie van vrouw en zoon deze week niet echt nodig blijkt nu. Als we maar opletten bij klachten" created="Fri, 02 Dec 2022 17:26:46 GMT"/>
+					<outline text="Wat ik dus niet goed genoeg heb gedaan. Want ik ben nu ook besmet. " created="Fri, 02 Dec 2022 17:27:03 GMT"/>
+					<outline text="De jongste zoon is klachtenvrij en mag weer naar school als dat zo blijft. Ondanks dat ik nog wel besmet ben. " created="Fri, 02 Dec 2022 17:27:45 GMT"/>
+					<outline text="Het is allemaal wat..." created="Fri, 02 Dec 2022 17:28:31 GMT"/>
+					</outline>
+				<outline text="Ik heb al veel Sudoku's gespeeld, maar dat het misgaat in het laatste vakje van de &lt;a href=&quot;https://www.nrc.nl/nieuws/2022/12/02/sudoku-a4150168?utm_source=SIM&amp;utm_medium=email&amp;utm_campaign=nrcavond&amp;utm_content=&amp;utm_term=20221202&quot;&gt;NRC Sudoku&lt;/a&gt; vandaag is wel erg uniek. " created="Fri, 02 Dec 2022 07:05:27 GMT" type="outline"/>
+				<outline text="" created="Fri, 02 Dec 2022 07:06:36 GMT" inlineImage="https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/sudoku.png"/>
+				</outline>
+			<outline text="December 1" created="Thu, 01 Dec 2022 09:52:10 GMT" type="calendarDay" name="01">
+				<outline text="Een nieuwe maand en meteen lig ik weer ziek thuis. Na de besmetting van de jongste en mijn vrouw, heb ik nu zelf een stevige griep te pakken. Vervelend. Maar het is niet anders. Rust!" created="Thu, 01 Dec 2022 09:52:11 GMT" type="outline"/>
+				</outline>
+			</outline>
 		<outline text="November 2022" created="Wed, 30 Nov 2022 13:28:53 GMT" name="november2022" type="calendarMonth">
 			<outline text="November 30" created="Wed, 30 Nov 2022 13:28:54 GMT" type="calendarDay" name="30">
 				<outline text="River Cross" created="Wed, 30 Nov 2022 17:30:26 GMT" type="outline" wp_postid="19364">
