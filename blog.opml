@@ -15,12 +15,22 @@
 		<ownerName>Frank Meeuwsen</ownerName>
 		<ownerId>http://twitter.com/frankmeeuwsen</ownerId>
 		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
-		<dateModified>Fri, 02 Dec 2022 17:28:36 GMT</dateModified>
-		<expansionState>1,2,3,12</expansionState>
-		<lastCursor>8</lastCursor>
+		<dateModified>Mon, 05 Dec 2022 23:11:23 GMT</dateModified>
+		<expansionState>1,2,4,10,11,20</expansionState>
+		<lastCursor>7</lastCursor>
 		</head>
 	<body>
 		<outline text="December 2022" created="Thu, 01 Dec 2022 09:52:09 GMT" name="december2022" type="calendarMonth">
+			<outline text="December 6" created="Mon, 05 Dec 2022 23:03:46 GMT" type="calendarDay" name="06">
+				<outline text="That was a first! I was typing the below words on December 5th but hit Publish somewhere around midnight so the serverclock got all dizzy and didn't know what to do. Ah well just throw an error and see what happens! Maybe this post will fix it like magic..." created="Mon, 05 Dec 2022 23:03:47 GMT" type="outline"/>
+				</outline>
+			<outline text="December 5" created="Mon, 05 Dec 2022 22:26:41 GMT" type="calendarDay" name="05">
+				<outline text="So here we are, testing a new &lt;a href=&quot;https://github.com/scripting/feedToMasto&quot;&gt;FeedtoMasto&lt;/a&gt; script from Dave Winer. From any webfeed, post directly to Mastodon. It looks pretty easy to setup and with a few tweaks in the config.json I got it working on Glitch.com. Onwards!" created="Mon, 05 Dec 2022 22:26:42 GMT" type="outline"/>
+				<outline text="Well, that seems to work just fine. You can see the toot on this page: &lt;a href=&quot;https://indieweb.social/@frank/109463430859280446&quot;&gt;https://indieweb.social/@frank/109463430859280446&lt;/a&gt;" created="Mon, 05 Dec 2022 22:57:33 GMT" type="outline"/>
+				<outline text="this might even make Drummer more interesting for fast updates I can share on the federated open web. " created="Mon, 05 Dec 2022 22:58:46 GMT"/>
+				<outline text="On the other hand, on my WordPress blog I have a two-way conversation. Reactions, boosts and likes are channeled back to my own domain. On Drummer this is not yet possible (I think?)" created="Mon, 05 Dec 2022 22:59:18 GMT"/>
+				<outline text="It's done with the black magic from syndicated links, webmentions and some other stuff I still don't quite understand. " created="Mon, 05 Dec 2022 23:00:17 GMT"/>
+				</outline>
 			<outline text="December 2" created="Fri, 02 Dec 2022 07:05:26 GMT" type="calendarDay" name="02">
 				<outline text="Klotecorona. " created="Fri, 02 Dec 2022 17:24:30 GMT" type="outline">
 					<outline text="Helaas is de stevige griep overgegaan in een vole positieve besmetting. 5 Dagen niet naar buiten dus! En vandaag veel uitgezocht hoe we het hier thuis moeten doen met besmettingen die al bijna zijn afgelopen of misschien nog kunnen komen. De conclusie na een lang gesprek met de GGD: We mogen wel bij elkaar zijn in 1 ruimte hier binnen, maar we moeten vooral opletten of we klachten krijgen die bij een besmetting kunnen horen. " created="Fri, 02 Dec 2022 17:27:22 GMT"/>
